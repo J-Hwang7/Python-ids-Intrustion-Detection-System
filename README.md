@@ -3,4 +3,7 @@ Similar to a guard dog or a security booth, an **Intrusion Detection System (IDS
 
 **Author:** @J-Hwang7 **Date** July 2026
 
+# How it works
+
+\
 # Python IDS Procedures
